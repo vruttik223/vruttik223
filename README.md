@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @vruttik223
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning full-stack web development
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me vruttikghanekar@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 # 💫 About Me:
- 👀I’m currently working on full-stack web development<br>💞️ I’m looking to collaborate on Projects<br>I'm currently learning Typescript<br>I'm looking for help in Backend Project<br>📫 How to reach me vruttikghanekar@gmail.com
+ 👋 Hiii I’m currently working on full-stack web development<br>💞️ I’m looking to collaborate on Projects<br>🌱 I'm currently learning Typescript<br>👀 I'm looking for help in Backend Project<br>📫 How to reach me vruttikghanekar@gmail.com
 
 
 ## 🌐 Socials:
